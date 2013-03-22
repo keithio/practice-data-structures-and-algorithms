@@ -1,5 +1,4 @@
-python-data-structures
-======================
+# Data Structures (in Python)
 
 The files in this repository are a collection of experiments on data
 structure implementations in Python.
