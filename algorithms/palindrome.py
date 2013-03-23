@@ -1,6 +1,8 @@
 def is_palindrome(string):
     """
     Test if a provided string is a palindrome.
+
+    Should run in O(n)
     """
     l = 0
     r = len(string) - 1
