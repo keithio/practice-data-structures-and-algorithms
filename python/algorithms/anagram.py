@@ -1,8 +1,13 @@
+"""
+Define a function that checks if two provided strings are anagrams.
+"""
+
+
 def is_anagram(s1, s2):
     """
     Checks if two strings are anagrams.
 
-    Should run in O(n)
+    Time: O(n)
     """
 
     return sorted(s1) == sorted(s2)
