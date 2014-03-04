@@ -1,0 +1,3 @@
+# quicksort.py
+
+Quicksort is one of the the most commonly used sorts, because it is one of the O(n log n) sorts in the average case, and it can be performed in place, without and additional memory. Quicksort works by selecting a pivot and partitioning the array based on that pivot. This involves putting all the numbers less than the pivot on the left side of the pivot, and all the numbers greater on the right side of the pivot.
